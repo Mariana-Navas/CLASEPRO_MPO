@@ -1,0 +1,86 @@
+Ejercicios
+Ejercicios T1
+Ejercicio 1: Definir y mostrar variables
+Crea un programa que defina tres variables: nombre, edad y ciudad. Asigna valores a cada una y muestra su contenido en la consola.
+Ejemplo de salida por consola:
+Ana
+25
+Madrid
+​
+Ejercicio 2: Modificar variables
+Crea un programa que defina una variable llamada puntuación con valor inicial 0. Luego, modifica su valor tres veces y muestra el resultado final.
+Ejemplo de salida por consola:
+Puntuación inicial: 0
+Después de primera modificación: 5
+Después de segunda modificación: 10
+Puntuación final: 15
+​
+Ejercicio 3: Tipos de variables
+Define cinco variables con diferentes tipos de datos (String, int, boolean, double, char) y muestra tanto su valor como su tipo.
+Ejemplo de salida por consola:
+Nombre: Carlos - Tipo: String
+Edad: 30 - Tipo: int
+¿Es estudiante?: true - Tipo: boolean
+Altura: 1.75 - Tipo: double
+Inicial: C - Tipo: char
+​
+Ejercicio 4: Variables con nombres descriptivos
+Crea un programa que simule la información de un libro usando variables con nombres descriptivos. Muestra toda la información del libro en la consola.
+Ejemplo de salida por consola:
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Año de publicación: 1605
+Número de páginas: 863
+¿Disponible en biblioteca?: true
+​
+Ejercicio 5: Declaración y uso de constantes
+Crea un programa que use constantes para almacenar información que no debe cambiar (como el valor de PI o el nombre de una aplicación) y variables para información que puede cambiar. Muestra todos los valores.
+Ejemplo de salida por consola:
+Aplicación: MiApp
+Versión: 1.0.0
+Valor de PI: 3.14159
+Usuario actual: Laura
+Nivel: 1
+Puntuación: 0
+Usuario actualizado: Miguel
+Nivel actualizado: 2
+Puntuación actualizada: 150
+​
+Ejercicio 6: Operaciones aritméticas simples
+Escribe un programa que declare dos variables numéricas, realice las operaciones básicas (suma, resta, multiplicación y división) y muestre los resultados por consola.
+Ejemplo de salida por consola:
+Número 1: 10
+Número 2: 5
+Suma: 15
+Resta: 5
+Multiplicación: 50
+División: 2
+
+Ejercicio 7: Presentación personal
+Crea un programa que almacene tu información personal (nombre, apellido, edad y ciudad) en variables y muestre un mensaje de presentación por consola.
+Ejemplo de salida por consola:
+¡Hola! Me llamo Elena García.
+Tengo 24 años y vivo en Barcelona.
+
+Desarrolla un programa que calcule el área de un rectángulo. Declara variables para la base y la altura, y muestra el resultado del cálculo.
+Ejemplo de salida por consola:
+Base del rectángulo: 5
+Altura del rectángulo: 3
+El área del rectángulo es: 15
+
+Escribe un programa que almacene la información de un producto (nombre, precio, código y disponibilidad) y muestre estos datos formateados por consola.
+Ejemplo de salida por consola:
+INFORMACIÓN DEL PRODUCTO
+--------------------------
+Nombre: Auriculares Bluetooth
+Precio: 29.99€
+Código: AUR-2023
+Disponible: true
+
+Crea un programa que convierta una temperatura de grados Celsius a Fahrenheit. Usa una variable para la temperatura en Celsius y muestra el resultado de la conversión. 
+La fórmula para convertir de Celsius a Fahrenheit es:
+F = C × 9/5 + 32
+Ejemplo de salida por consola:
+Temperatura en Celsius: 25
+Temperatura en Fahrenheit: 77
+
